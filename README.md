@@ -1,7 +1,7 @@
 # 🍴 Restaurante Pai Thiag - Sistema Completo
 
 Sistema profissional e completo de gestão de restaurante com autenticação diferenciada, pedidos online, reservas de mesas e painéis específicos para cada tipo de usuário.
-**Url Site On-line**https://69bc43f46fe16724e4cd079a--helpful-starburst-78e500.netlify.app/
+**Url Site On-line**: https://69bc43f46fe16724e4cd079a--helpful-starburst-78e500.netlify.app/
 
 ## ✨ Características Principais
 
