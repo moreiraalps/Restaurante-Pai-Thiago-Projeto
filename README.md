@@ -1,6 +1,7 @@
 # 🍴 Restaurante Pai Thiag - Sistema Completo
 
 Sistema profissional e completo de gestão de restaurante com autenticação diferenciada, pedidos online, reservas de mesas e painéis específicos para cada tipo de usuário.
+**Url Site On-line**https://69bc43f46fe16724e4cd079a--helpful-starburst-78e500.netlify.app/
 
 ## ✨ Características Principais
 
@@ -94,8 +95,8 @@ Após executar o SQL, você pode fazer login com:
 ### 4. Acessar o Sistema
 
 O sistema está rodando em:
+(caso baixe o projeto)
 - **Local**: http://localhost:3000
-- **Deploy**: https://restaurant-pro-12.preview.emergentagent.com
 
 ## 🎨 Design e UX
 
